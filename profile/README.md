@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+Scholar+Saver+%F0%9F%8E%93;UK+Digital+Startup+of+the+Year+2025+%F0%9F%8F%86;Helping+8%2C000%2B+Students+Stay+in+Education+%F0%9F%9A%80;Building+the+Future+of+Agentic+Finance+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+Scholar+Saver+%F0%9F%8E%93;UK+Digital+Startup+of+the+Year+2025+%F0%9F%8F%86;Helping+Students+Stay+in+Education+%F0%9F%9A%80;Building+the+Future+of+Agentic+Finance+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
